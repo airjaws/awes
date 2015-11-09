@@ -122,8 +122,8 @@ function fn_init() {
 		padding: 3px;
 	}
 </style>
-<script type="text/javascript" src="jquery-1.11.2.min.js"></script>
-<script type="text/javascript" src="jquery-ui.min.js"></script>
+<script type="text/javascript" src="./awes/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="./awes/jquery-ui.min.js"></script>
 <body>
 <h3>AWES - pilot project</h3> 
 <div id="gnb"></div> 
